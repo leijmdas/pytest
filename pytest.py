@@ -18,8 +18,8 @@ def main():
         print os.path.dirname( sys.argv[0] )
 
 if __name__ == "__main__":
-    #main()
-    TestFrameThread().start()
+    main()
+    #TestFrameThread().start()
 
     
     
